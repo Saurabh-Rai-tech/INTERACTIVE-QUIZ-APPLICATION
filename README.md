@@ -1,4 +1,4 @@
-# REAL-TIME CHAT APPLICATION
+# Interactive Quiz Application
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -6,13 +6,13 @@ NAME:SAURABH RAI
 
 INTERN ID:CT04DG1385
 
-DOMAIN:FRONT END DEVELOPMENT
+DOMAIN:FRONT END WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-## PROJECT: Real-Time Chat Application
+## PROJECT: Interactive Quiz Application
 
 ### TOOLS & TECHNOLOGIES USED
 Welcome to the Interactive Quiz Application – a simple yet powerful web-based quiz platform built entirely with HTML, CSS, and JavaScript. This application was developed using Visual Studio Code (VS Code) and is designed to deliver a seamless and engaging experience for users who want to test their knowledge in a fun and interactive way.
