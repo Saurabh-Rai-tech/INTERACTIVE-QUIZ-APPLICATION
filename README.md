@@ -5,3 +5,6 @@ HTML5: For creating the structure of the quiz interface, buttons, question layou
 CSS3: For styling the interface, including layout, colors, buttons, transitions, and responsiveness.
 JavaScript (Vanilla): For implementing quiz logic, including dynamic question display, scoring, user input handling, and feedback.
 Visual Studio Code: Used as the primary code editor for development, debugging, and previewing with extensions like Live Server.
+#OUTPUT
+
+<img width="1887" height="1036" alt="Image" src="https://github.com/user-attachments/assets/764e83b5-90ac-49d1-9764-594fd3cedc5c" />
